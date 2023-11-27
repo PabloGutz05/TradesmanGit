@@ -1,0 +1,59 @@
+/* paleta de colores : 350200 , 6c0200 , 900500 , bd953e , d4b356 */
+
+
+body {
+    background-color: #350200;
+}
+
+.underline {
+    text-decoration: none;
+}
+
+.text-wine1 {
+    color: #350200;
+}
+
+.text-wine2 {
+    color: #6c0200;
+}
+
+.text-wine3 {
+    color: #900500;
+}
+
+.text-gold1 {
+    color: #bd953e;
+}
+
+.text-gold2 {
+    color: #d4b356;
+}
+
+.text-whiteS {
+    color: whitesmoke;
+}
+
+.background-wine1 {
+    background-color: #350200;
+}
+
+.background-wine2 {
+    background-color: #6c0200;
+}
+
+.background-wine3 {
+    background-color: #900500;
+}
+
+.background-gold1 {
+    background-color: #bd953e;
+}
+
+.background-gold2 {
+    background-color: #d4b356;
+}
+
+.background-whiteS {
+    background-color: whitesmoke;
+}
+
